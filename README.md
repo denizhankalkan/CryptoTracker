@@ -1,3 +1,3 @@
 # CryptoTracker
 
-In this project we will build a cryoto tracker application with Angular, RXJS 
+In this project we will build a cryoto tracker application with Angular, RXJS, SASS, NGRX
